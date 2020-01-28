@@ -1,0 +1,15 @@
+{
+    "datacenter": "orleans-sample",
+    "data_dir": "/consul/data/",
+    "log_level": "INFO",
+    "node_name": "node1",
+    "server": true,
+    "bootstrap_expect": 1,
+    "client_addr": "0.0.0.0",
+    "ui": true,
+    "acl_datacenter": "orleans-sample",
+    "acl_master_token": "8e5bd610-f19c-40cd-9265-526ce6779892",
+    "acl_default_policy": "deny",
+    "acl_down_policy": "extend-cache",
+    "acl_agent_token": "55e29978-3f88-47d4-b32f-569584acc81a"
+  }
